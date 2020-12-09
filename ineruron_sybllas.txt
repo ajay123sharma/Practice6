@@ -1,0 +1,31 @@
+Machine Learning in depth from beginning to advance discussion and implementation with Deployment.
+Deep learning in-depth topic wise discussion and implementation with the project.
+Docker and Kubernetes end to end with CI/CD pipeline for machine learning.   
+Remote internship opportunities for Everyone to work with the development team.
+End to End Model Deployment in Azure, GCP, AWS, and Pivotal Cloud.
+Python spark implementation with the project.
+Time Series end to end implementation in machine learning and deep learning. 
+26 + hands-on industry real-time projects.
+Power BI and Tableau self-placed course. 
+Machine Learning Deep Learning Masters Certificate
+200 hours live interactive classes.
+Every week doubt clearing session after the live classes.
+Lifetime Dashboard access. 
+Doubt clearing one to one 
+Doubt clearing through mail and support team
+Assignment in all the module 
+20+ use case of Machine learning  
+A live project with real-time implementation 
+Resume building 
+career guidance 
+interview Preparation
+Regular assessment
+Job alerts
+Internship opportunities
+Online Instructor-led learning: Live teaching by instructors
+Product Demo​
+
+
+
+
+K- means becomes handy when dataset is large whereas Hierarchial clustering inefficient in this regard because it becomes computationally expensive . Time complexity is very high in case of hierarchial clustering as each data point has been considered as one single cluster to start off and then based on the euclidian distance with other data points the membership of  the big cluster has been obtained. Whereas in K means , based on the K, the membership of the cluster  is obtained following the centroid movement . Time complexity_k-means : order of n o(n) , hierarchial : o(n2).

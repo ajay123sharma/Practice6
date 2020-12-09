@@ -1,0 +1,440 @@
+
+
+DS Curriculum
+Module 1
+
+Python for Data Science
+Great Learning - Data Analytics using Excel Cerificate 3.5 hrs
+
+Numpy
+Pandas
+Matplotlib
+
+Module 2
+
+Exploratory Data Analysis
+Great Learning - Data Analytics using Excel Cerificate 2 hrs
+
+Data Cleaning
+Data Preprocessing
+Feature Engineering
+
+Module 3
+
+Supervised Learning
+Great Learning - Data Analytics using Excel Cerificate 7 hrs
+
+Predictive Modelling- Linear Regression
+Predictive modelling- Logistic Regression
+Popular supervised ML Algorithms
+Naive Bayes
+K-Nearest Neighbor
+Support Vector Machine
+Decision Tree
+Show less
+
+Module 4
+
+Unsupervised Learning
+Great Learning - Data Analytics using Excel Cerificate 1 hr
+
+Introduction to Clustering
+K Means Clustering
+Silhouette coefficient for K means
+Visual Analysis of clustering
+
+Module 5
+
+Visualization with Tableau
+Great Learning - Data Analytics using Excel Cerificate 1.5 hrs
+
+Tableau Desktop Exploration
+Data representation and analysis using various plots and charts
+
+
+
+
+
+
+
+
+ML Curriculum
+Module 1
+
+Supervised Learning
+Great Learning - Data Analytics using Excel Cerificate 8 hrs
+
+Linear Regression
+Logistic Regression
+Naive Bayes
+
+Module 2
+
+Ensemble Techniques
+Great Learning - Data Analytics using Excel Cerificate 3 hrs
+
+Decision Trees
+Bagging, Boosting
+Random Forest
+
+Module 3
+
+Unsupervised Learning
+Great Learning - Data Analytics using Excel Cerificate 3 hrs
+
+K-means clustering
+Dimensionality reduction using PCA
+
+Module 4
+
+Feature importance, Model selection and Tuning (FMST)
+Great Learning - Data Analytics using Excel Cerificate 6 hrs
+
+Feature importance, Sampling techniques
+Cross Validation
+Hyperparameter Tuning
+
+
+
+
+
+
+DS R Curriculum
+Module 1
+
+Introduction to R
+Great Learning - Data Analytics using Excel Cerificate 3 hrs
+
+Introduction to R
+R commands
+R objects
+Data frames
+List and R packages
+Importing Data in R
+Scraping in R
+Show less
+Module 2
+
+Applied Statistics
+Great Learning - Data Analytics using Excel Cerificate 5 hrs
+
+Probability & its basics – Mutually exclusive events, independent events
+Laws of probability
+Conditional probability
+Types of distribution – Binomial, Poisson & Normal distribution
+Hypothesis & T - testing
+ANOVA
+Show less
+Module 3
+
+Supervised Learning
+Great Learning - Data Analytics using Excel Cerificate 5 hrs
+
+Regression (Linear, Multiple)
+Classification
+Logistic regression
+KNN
+Naive Bayes
+SVM
+Show less
+Module 4
+
+Unsupervised Learning
+Great Learning - Data Analytics using Excel Cerificate 3 hrs
+
+Introduction to Clustering
+Types of clustering
+K Means Clustering
+Hierarchical clustering
+
+
+
+
+
+
+
+Deep Learning with Python Curriculum
+Module 1
+
+Introduction to Neural networks and deep learning
+Great Learning - Data Analytics using Excel Cerificate 9.5 hrs
+
+Introduction to Neural Networks
+Activation functions
+Feed forward neural network
+Back propagation and Gradient descent
+Learning Rate setting and tuning
+Hands-on Python Demo: Building a Neural Network from Scratch
+Introduction to Tensorflow
+Computational Graph
+Hands-on in TensorFlow: Linear regression on Boston Housing prices
+Introduction to Keras
+Build a Deep Neural Network in Keras: MNIST Dataset
+Feed forward
+Back Propagation
+Fully Connected Layer - Forward pass
+Fully Connected Layer - Backward pass
+Activation Functions
+Softmax
+Cross-Entropy Loss
+Hands-on-Python-demo : MNIST walk-through of building blocks of Neural Networks
+Data Preprocessing
+Data Augmentation
+Weight initialization
+Regularization - Batch Normalization
+Regularization - Dropout
+Show less
+Module 2
+
+Computer vision
+Great Learning - Data Analytics using Excel Cerificate 5 hrs
+
+Working with Images_Introduction
+Working with Images - Digitization, Sampling, and Quantization
+Hands-on Python Demo: Working with images
+Introduction to Convolutions
+2D convolutions for Images
+Convolution - Forward and Backward
+Transposed Convolution and Fully Connected Layer as a Convolution
+Pooling : Max Pooling and Other pooling options
+Hands-on Keras Demo: MNIST CNN Building Blocks code walk-through
+CNN Architectures and LeNet Case Study
+Case Study : AlexNet, ZFNet, VGGNet, GoogleNet, ResNet
+GPU vs CPU
+Transfer Learning Principles and Practice
+Hands-on Keras Demo: SVHN Transfer learning
+Show less
+Module 3
+
+Natural Language Processing
+Great Learning - Data Analytics using Excel Cerificate 2.5 hrs
+
+Introduction to NLP
+Pre-processing in NLP-Tokenization, Stop words, Normalisation,stemming and lemmatization
+Pre-processing in NLP-Bag of words, TF-IDF as features
+Language Models Probabilistic models, N-gram model and channel model
+Hands-on demo_NLP Basics with NLTK
+Word2Vectors
+Glove
+Hands-on demo : Word Embeddings
+Applications : POS tagging, NER
+Hands-on demo : POS tagging with NLTK
+Hands-on demo : TF-IDF with NLTK
+
+
+
+
+
+
+
+Artificial Intelligence Foundations Curriculum
+Module 1
+
+Supervised Learning
+Great Learning - Data Analytics using Excel Cerificate 6 hrs
+
+Concepts of machine learning and Importance
+Feature or Mathematical space
+Supervised machine learning - Introduction
+Linear regression and Pearson’s coefficient
+Linear regression - Mathematical concept
+Linear Regression - Advantages and Disadvantages
+Descriptive analysis on the dataset
+Analyse the Distribution - Dependent column
+Missing Values imputation
+Bivariate analysis - Seaborn
+Building model using all information
+Exploratory data Analysis(EDA)
+Model Analysis and Squared errors
+Fluke correlation
+Logit function in Logistic regression
+Probability examples and model predictions
+Hands-on exercise on logistic regression
+Introduction to Naive Bayes' Classifier
+Naive Bayes' Classifier and examples
+Naive Bayes' - Hands on
+Show less
+Module 2
+
+Unsupervised learning
+Great Learning - Data Analytics using Excel Cerificate 4 hrs
+
+Unsupervised learning_Clustering
+Clustering - Types and Distance
+Clustering - Distance calculations
+K-means Clustering
+Elbow method
+Visual analysis for Clustering
+Hands on exercise - K-means clustering
+Hierarchical Clustering
+Measuring distance between clusters
+Hands on exercise - Hierarchical clustering
+Principal Component Analysis
+Principal Component Co-variance Matrix
+PCA for Dimensionality Reduction
+Hands on exercise - PCA
+Show less
+Module 3
+
+Introduction to Neural networks and Deep learning
+Great Learning - Data Analytics using Excel Cerificate 7 hrs
+
+Introduction to Neural Networks
+Activation functions
+Feed forward neural network
+Back propagation and Gradient descent
+Learning Rate setting and tuning
+Hands-on Python Demo: Building a Neural Network from Scratch
+Introduction to Tensorflow
+Computational Graph
+Hands-on in TensorFlow: Linear regression on Boston Housing prices
+Introduction to Keras
+Build a Deep Neural Network in Keras: MNIST Dataset
+Feed forward
+Back Propagation
+Fully Connected Layer - Forward pass
+Fully Connected Layer - Backward pass
+Activation Functions
+Softmax
+Cross-Entropy Loss
+Hands-on-Python-demo : MNIST walk-through of building blocks of Neural Networks
+Show less
+Module 4
+
+Computer Vision
+Great Learning - Data Analytics using Excel Cerificate 5 hrs
+
+Working with Images_Introduction
+Working with Images - Digitization, Sampling, and Quantization
+Hands-on Python Demo: Working with images
+Introduction to Convolutions
+2D convolutions for Images
+Convolution - Forward and Backward
+Transposed Convolution and Fully Connected Layer as a Convolution
+Pooling : Max Pooling and Other pooling options
+Hands-on Keras Demo: MNIST CNN Building Blocks code walk-through
+CNN Architectures and LeNet Case Study
+Case Study : AlexNet, ZFNet, VGGNet, GoogleNet, ResNet
+GPU vs CPU
+Transfer Learning Principles and Practice
+Hands-on Keras Demo: SVHN Transfer learning
+Show less
+Module 5
+
+Natural Language Processing
+Great Learning - Data Analytics using Excel Cerificate 2.5 hrs
+
+Introduction to NLP
+Pre-processing in NLP-Tokenization, Stop words, Normalisation,stemming and lemmatization
+Pre-processing in NLP-Bag of words, TF-IDF as features
+Language Models Probabilistic models, N-gram model and channel model
+Hands-on demo_NLP Basics with NLTK
+Word2Vectors
+Glove
+Hands-on demo : Word Embeddings
+Applications : POS tagging, NER
+Hands-on demo : POS tagging with NLTK
+Hands-on demo : TF-IDF with NLTK
+
+
+
+
+
+Data Visualisation using Tableau
+Curriculum
+Module 1
+
+Essential Design Principles of Tableau
+Great Learning - Data Analytics using Excel Cerificate 3.2 hrs
+
+Visual analytics and 7 step process
+Exploring the Tableau Desktop 10 Interface
+Importing Data set in Tableau
+Deriving insights: Number Vs Visuals
+Design Principles - Selecting the appropriate Charts based on the data
+Design Principles - Tree Map
+Design Principles - Box Plot
+Design Principles - Gannt Chart
+Show less
+Module 2
+
+Creating Visualization with Tableau
+Great Learning - Data Analytics using Excel Cerificate 6.5 hrs
+
+String Calculations
+Date Calculations
+Logical Operations
+Groups in Tableau
+Joining Groups
+Introduction to Dashboards
+Special Types of Charts
+Funnel And Control Charts
+Parameters in Tableau
+Sorting with Parameters
+What If Analysis with Parameters
+Building Dashboards
+Building Storyboards
+Dashboard Actions Part 1
+Dashboard Actions Part 2
+Advanced Mapping Techniques
+Creating Groups
+Advanced Calculations in Tableau
+Show less
+
+
+
+
+
+
+
+
+Master AWS Cloud Computing
+Curriculum
+Module 1
+
+Cloud compute
+Great Learning - Data Analytics using Excel Cerificate 6 hrs
+
+AWS Compute & Organization
+Elastic Compute Cloud (EC2)
+Load Balancing
+Fault Tolerance
+CloudWatch
+Instance Pricing
+Identity and Access Management
+Auto Scaling
+Amazon Machine Image
+AWS Command Line Interface
+Show less
+Module 2
+
+Cloud storage
+Great Learning - Data Analytics using Excel Cerificate 2 hrs
+
+Forms of Storage on Cloud
+Block Storage - EBS
+Elastic File System
+Object Storage - Simple Storage Service
+Module 3
+
+Cloud networking
+Great Learning - Data Analytics using Excel Cerificate 4 hrs
+
+VPC
+Hybrid Cloud & Networking
+VPC Peering
+VPC Endpoints
+Route53
+Web Application Firewall
+Show less
+Module 4
+
+Managed Services on AWS
+Great Learning - Data Analytics using Excel Cerificate 3 hrs
+
+Overview of Managed Services
+Relational Database Service with Elasticache
+Serverless - AWS Lambda
+
+
+

@@ -1,0 +1,33 @@
+<!doctype html>
+
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+
+  <title>HTML Tut</title>
+
+
+
+</head>
+
+<body>
+<img id="myImage" src="pic_bulboff.gif" width="100" height="180">
+<button onclick="light(1)">Light On</button>
+<button onclick="light(0)">Light Off</button>
+
+<script>
+  function light(sw){
+    var pic;
+    if( sw == 0){
+      pic = "pic_bulboff.gif"
+    }
+    else{
+      pic = "pic_bulbon.gif"
+    }
+    document.getElementById("myImage").src = pic;
+  }
+</script>
+
+
+</body>
+</html>

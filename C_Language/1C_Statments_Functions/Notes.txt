@@ -1,0 +1,54 @@
+$$ Primitive Data Types: 
+
+    Integer
+    Character
+    Boolean
+    Floating Point
+    Double Floating Point
+    ? Valueless or Void
+    ? Wide Character
+
+$$ Derived Data Types
+    Function
+    Array
+    Pointer
+    Reference
+
+$$ Abstract or User-Defined Data Types: 
+    Class
+    Structure
+    Union
+    Enumeration
+    Typedef defined DataType
+    
+
+$$ List of Escape Sequences in C
+
+    Escape          Sequence Meaning
+    
+    \a              Alarm or Beep
+    \b              Backspace
+    \f                  Form Feed
+    \n              New Line
+    \r              Carriage Return
+    \t              Tab (Horizontal)
+    \v              Vertical Tab
+    \\              Backslash
+    \'              Single Quote
+    \"              Double Quote
+    \?              Question Mark
+    \nnn            octal number
+    \xhh             hexadecimal number
+    \0               Null
+
+
+https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/   operator problem question solove
+
+https://www.geeksforgeeks.org/bit-tricks-competitive-programming/
+https://www.geeksforgeeks.org/bits-manipulation-important-tactics/
+https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/
+
+binary stream 
+text stream
+
+
